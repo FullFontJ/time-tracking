@@ -1,0 +1,57 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik:wght@300;400;500&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+/* Family: Rubik
+Weights: 300, 400, 500 */
+
+:root {
+  font-family: 'Rubik', sans-serif;
+
+/* Neutral */
+background-color: hsl(226, 43%, 10%);
+}
+
+
+.text-desaturated-blue{
+  color: hsl(235, 45%, 61%);
+}
+
+.text-pale-blue{
+  color: hsl(236, 100%, 87%);
+}
+
+.bg-card{
+  background-color: hsl(235, 46%, 20%);
+}
+
+.bg-blue{
+  background-color: hsl(246, 80%, 60%);
+}
+
+.bg-work{
+ background-color: hsl(15, 100%, 70%);
+}
+
+.bg-play{
+  background-color: hsl(195, 74%, 62%);
+}
+
+.bg-study{
+  background-color: hsl(348, 100%, 68%);
+}
+
+.bg-exercise{
+  background-color: hsl(145, 58%, 55%); 
+}
+
+.bg-social{
+  background-color: hsl(264, 64%, 52%);
+}
+
+.bg-self-care{
+  background-color: hsl(43, 84%, 65%);
+}
