@@ -3,7 +3,7 @@
     "title": "Work",
     "id": 1,
     "color": "bg-work",
-    "image": "/img/icon-work.svg",
+    "image": "img/icon-work.svg",
     "timeframes": {
       "daily": {
         "current": 5,
@@ -23,7 +23,7 @@
     "title": "Play",
     "id": 2,
     "color": "bg-play",
-    "image": "/img/icon-play.svg",
+    "image": "img/icon-play.svg",
     "timeframes": {
       "daily": {
         "current": 1,
@@ -43,7 +43,7 @@
     "title": "Study",
     "id": 3,
     "color": "bg-study",
-    "image": "/img/icon-study.svg",
+    "image": "img/icon-study.svg",
     "timeframes": {
       "daily": {
         "current": 0,
@@ -63,7 +63,7 @@
     "title": "Exercise",
     "id": 4,
     "color": "bg-exercise",
-    "image": "/img/icon-exercise.svg",
+    "image": "img/icon-exercise.svg",
     "timeframes": {
       "daily": {
         "current": 1,
@@ -83,7 +83,7 @@
     "title": "Social",
     "id": 5,
     "color": "bg-social",
-    "image": "/img/icon-social.svg",
+    "image": "img/icon-social.svg",
     "timeframes": {
       "daily": {
         "current": 1,
@@ -103,7 +103,7 @@
     "title": "Self Care",
     "id": 6,
     "color": "bg-self-care",
-    "image": "/img/icon-self-care.svg",
+    "image": "img/icon-self-care.svg",
     "timeframes": {
       "daily": {
         "current": 0,
